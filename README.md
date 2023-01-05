@@ -1,4 +1,4 @@
 # housing_rental_analysis
 Housing Rental Analysis for San Francisco
 
-The line and bar graphs and the map were not visible in the ipynb file, so created PDF verion of the file and uploaded where it's all visible.
+Note: Line and Bar graphs and map were not visible in the ipynb file when uploaded in GitHub. Hence, created a PDF version of the ipynb file and uploaded the PDF file. All graphs and map are visible along with the code and output in the PDF file.
